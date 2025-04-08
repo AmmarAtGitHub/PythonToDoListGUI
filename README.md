@@ -17,8 +17,8 @@ This is a simple desktop To-Do List application built with Python and Tkinter. T
 1. Make sure you have Python installed on your computer
 2. Clone this repository or download the source code
 ```
-git clone https://github.com/AmmarAtGitHub/PythonToDoListGUI.git
-cd PythonToDoListGUI
+git clone https://github.com/AmmarAtGitHub/python-todo-gui.git
+cd python-todo-gui
 ```
 
 ## How to Run
@@ -48,3 +48,5 @@ The application uses Tkinter to create a graphical user interface with the follo
 4. Select a task and click "Delete Task" to remove it
 
 ## Screenshots
+![python-todo-gui](https://github.com/user-attachments/assets/92d69fac-e02c-4ccd-bb59-b04036bc7c6e)
+
